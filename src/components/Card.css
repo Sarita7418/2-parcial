@@ -1,0 +1,10 @@
+.card {
+  margin: 20px 0;
+  overflow: hidden;
+  border-radius: 16px;
+}
+
+.content {
+  padding: 20px;
+  background-color: white;
+}

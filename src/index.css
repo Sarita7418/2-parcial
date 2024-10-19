@@ -1,9 +1,20 @@
 :root {
-  
+  --red: rgba(235, 87, 87, 1);
+  --purple: rgba(155, 81, 224, 1);
+  --gray: rgba(189, 189, 189, 1);
+  font-family: "Lato";
 }
 
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+#root {
+  padding: 30px;
+}
+
+body {
+  background-color: cadetblue;
 }
